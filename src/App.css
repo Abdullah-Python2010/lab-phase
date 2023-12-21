@@ -80,3 +80,13 @@ input{
 .todos{
   margin-top: 40px;
 }
+
+.fil{
+  padding: 15px 20px;
+  font-size: 14px;
+  background: #000505;
+  color: beige;
+  border: none;
+  cursor: pointer;
+
+}
